@@ -68,8 +68,19 @@ ScreenShots
 
 
 
+![FirstLook](https://github.com/user-attachments/assets/026dcabe-79d2-4bd4-8aa5-1651aab04ab2)
 
+![hamburgermenupage](https://github.com/user-attachments/assets/11d2e2cb-40cd-448d-870c-614569b3d6cd)
 
+![Homepage](https://github.com/user-attachments/assets/5027f40d-8d9d-4656-940d-d639e7d56970)
+
+![Loadingpage](https://github.com/user-attachments/assets/6967b0a2-39aa-4d8c-aab1-51f33b9aef27)
+
+![Menupage](https://github.com/user-attachments/assets/968aabc9-f771-410a-ade0-0f919241cb54)
+
+![Onlineorderpage](https://github.com/user-attachments/assets/9bb81c35-d68e-48fd-be0b-92dcf2a0161f)
+
+![Signuporloginpage](https://github.com/user-attachments/assets/d51ede8a-ab0c-43f0-91b5-73c569b80d12)
 
 
 
